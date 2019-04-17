@@ -2,14 +2,14 @@
 **Cours Hadoop SIO 2018** *- notes par Yoannis*
 
 
-## Structure du cour?
+## Structure du cours
 - [x] Vision de l'écosystème
-- [ ] Deep dive sur chaque élément consistuant de l'écosystème
+- [x] Deep dive sur chaque élément consistuant de l'écosystème
   - [x] HDFS
-  - [ ] Spark
-- [ ] Cas d'usage
-- [ ] Critères de sélection
-- [ ] Le Datalake
+  - [x] Spark
+- [x] Cas d'usage
+- [x] Critères de sélection
+- [x] Le Datalake
 
 
 - - -
