@@ -1,7 +1,3 @@
-# cours-hadoop
-**Cours Hadoop SIO 2018** *- notes par Yoannis*
-
-
 ## Structure du cours
 - [x] Vision de l'écosystème
 - [x] Deep dive sur chaque élément consistuant de l'écosystème
